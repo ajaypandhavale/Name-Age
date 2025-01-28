@@ -20,7 +20,7 @@ public class Name_Age {
 		System.out.println(" Age of the employee"+age);
 		
 
-//System.out.println(" updating using branch branch name update1 changing data type as float");
+System.out.println(" updating using branch branch name update");
 		
 	}
 
